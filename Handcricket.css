@@ -1,0 +1,56 @@
+body{
+    background-color: lightcyan;
+    font-size: 15px;
+}
+#user{
+    display: inline-block;
+	border: 5px solid black;
+	height: 130px;
+    width: 200px;
+    border: 2px solid black;
+    float: left;
+}
+
+#choice{
+	border: 2px solid black;
+	height: 150px;
+    width: 200px;
+    text-align: center;
+    margin-left: 444px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#choice > button {
+    margin-top: 10px;
+	height: 50px;
+	width: 50px;
+    background-color: rgb(22, 214, 22);
+    border-radius: 6px;
+}
+
+
+#scoreboard{
+    display: inline-block;
+	border: 2px solid black;
+	height: 130px;
+    width: 200px;
+    margin-left: 240px;
+   
+}
+
+#computerchoice{
+    display: inline-block;
+	border: 2px solid black;
+	height: 130px;
+    width: 200px;
+    float: right;
+}
+
+#commentary{
+	border:2px solid black;
+	height: 90px;
+    text-align:center;
+}
+

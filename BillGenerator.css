@@ -1,0 +1,59 @@
+body{
+     overflow-x: hidden;
+     overflow-y: hidden;
+     background-color: lightcyan;
+     
+ }
+ #div1{
+    display: inline;
+     background-color: rgb(104, 245, 214);
+     float: left;
+     padding: 10px;
+     padding-left: 100px;
+     padding-right: 100px;
+     border: 3px solid black;
+
+ }
+ #div2{
+    float: right;
+    display: inline;
+    background-color: rgb(104, 245, 214);
+     padding: 20px;
+     border: 3px solid black;
+     margin: 20px;
+ 
+ }
+ #yourcart{
+     margin-bottom: 40px;
+ }
+ #div3{
+    background-color: rgb(104, 245, 214);
+     padding: 5px;
+     margin-top: 10px;
+     float: left;
+     border: 2.5px dotted black;
+     margin-left: 100px;
+     width:760px;
+ }
+ table{
+     text-align: justify;
+ }
+ #writeme{
+     background-color: aliceblue;
+     margin-top: -10px;
+     margin-bottom: 15px;
+ }
+ #sm,#quantity,.mybutton{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+ }
+ .mybutton{
+    background-color: yellow
+ }
+
+ table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+ }
+ 
